@@ -18,3 +18,4 @@
   - CSS3
   - JavaScript
   - JQuery
+  - JSP/Servlet
