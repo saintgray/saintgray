@@ -13,13 +13,14 @@
  
 - ***curStacks***
   - Java
-  - SQL
+  - MYSQL ORACLE
   - HTML5
   - CSS3
   - JavaScript
-  - JQuery
+  - JQuery / AJAX
   - JSP/Servlet
-  - Spring Framework
+  - Back-end (Spring Framework, Spring Boot)
+  - Front-end (Bootstrap Framework)
 
 
 <h3>dont think about elephants</h3>
