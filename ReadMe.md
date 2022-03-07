@@ -21,6 +21,9 @@
   - JSP/Servlet
   - Back-end (Spring Framework, Spring Boot)
   - Front-end (Bootstrap Framework)
+- ***curStudy***
+  - React.js
+  - Blockchain / ActiveMQ
 
 
 <h3>dont think about elephants</h3>
