@@ -27,5 +27,5 @@
   - axios
 
 
-<h3>dont think about elephants</h3>
+<h3>Don't worry about the why, just worry about the how</h3>
 
