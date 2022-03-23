@@ -25,6 +25,7 @@
   - React.js
   - Blockchain / ActiveMQ
   - axios
+  - Vue.js
 
 
 <h3>Don't worry about the why, just worry about the how</h3>
