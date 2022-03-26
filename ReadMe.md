@@ -27,6 +27,12 @@
   - axios
   - Vue.js
 
+- ***devOps***
+  - Git
+  - SVN
+  - AWS
+  - Amazon S3
+
 
 <h3>Don't worry about the why, just worry about the how</h3>
 
