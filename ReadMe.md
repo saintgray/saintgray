@@ -20,7 +20,7 @@
   - JQuery / AJAX
   - JSP/Servlet
   - Back-end (Spring Framework, Spring Boot)
-  - Front-end (Bootstrap Framework)
+  - Front-end (Bootstrap Framework, Vue.js)
 - ***curStudy***
   - React.js
   - Blockchain / ActiveMQ
