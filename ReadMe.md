@@ -43,4 +43,8 @@
 
 
 <h3>Don't worry about the why, just worry about the how</h3>
+<h3>Losing her was blue like I'd never known</h3>
+<h3>Missing her was dark grey all alone</h3>
+<h3>Forgetting her was like Trying to know somebody you never met</h3>
+<h3>But loving her was red</h3>
 
