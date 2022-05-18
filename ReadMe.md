@@ -17,13 +17,16 @@
   - HTML5
   - CSS3
   - JavaScript
-  - JQuery / AJAX
+  - JQuery / AJAX / Axios
   - JSP/Servlet
-  - Back-end (Spring Framework, Spring Boot)
-  - Front-end (Bootstrap, axios, Vue.js)
+  - Back-end (Spring Framework, Spring Boot, MyBatis)
+  - Front-end (Bootstrap, Vue.js)
   
 - ***curStudy***
   - React.js
+  - JWT
+  - JPA
+  - Hibernate
   
 - ***devOps***
   - Git
@@ -40,18 +43,12 @@
 
 
 
-<h3>Don't worry about the why, just worry about the how - Agent 14 : GTA5</h3>
+<h4>Don't worry about the why, just worry about the how - Agent 14 : GTA5</h4>
 <hr>
-<h3>Losing her was blue like I'd never known</h3>
-<h3>Missing her was dark grey all alone</h3>
-<h3>Forgetting her was like Trying to know somebody you never met</h3>
-<h3>But loving her was red -Taylor Swift : RED</h3>
-<hr>
-<h4>마주치면 인사하지 말자</h4>
-<h4>잘 지내냐 안부도 묻지 말자</h4>
-<h4>시간이 아주 오래 지나도</h4>
-<h4>그땐 그랬지 하며 추억인 척</h4>
-<h4>웃으며 아는 척 하지도 말자 - 상속자들 中</h4>
+<h4>Losing him was blue like I'd never known</h4>
+<h4>Missing him was dark grey all alone</h4>
+<h4>Forgetting him was like Trying to know somebody you never met</h4>
+<h4>But loving her was red -Taylor Swift : RED</h4>
 <hr>
 <h4>
 Leave and get in a taxi<br>
