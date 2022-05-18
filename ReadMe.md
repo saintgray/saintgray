@@ -45,10 +45,12 @@
 
 <h4>Don't worry about the why, just worry about the how - Agent 14 : GTA5</h4>
 <hr>
-<h4>Losing him was blue like I'd never known</h4>
-<h4>Missing him was dark grey all alone</h4>
-<h4>Forgetting him was like Trying to know somebody you never met</h4>
-<h4>But loving her was red -Taylor Swift : RED</h4>
+<h4>
+Losing him was blue like I'd never known<br>
+Missing him was dark grey all alone<br>
+Forgetting him was like Trying to know somebody you never met<br>
+But loving her was red -Taylor Swift : RED<br>
+</h4>
 <hr>
 <h4>
 Leave and get in a taxi<br>
