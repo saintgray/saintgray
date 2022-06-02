@@ -28,6 +28,7 @@
   
 - ***curStudy***
   - React.js
+  - Mobx
   - JWT
   - JPA
   - Hibernate
