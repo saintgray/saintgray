@@ -18,10 +18,10 @@
 - ***curStacks***
   - LANG
     - Java
-  -DBMS
+  - DBMS
     - MYSQL 
     - ORACLE
-  -WEB
+  - WEB
     - HTML5
     - CSS3
     - JavaScript
