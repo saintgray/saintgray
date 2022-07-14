@@ -27,9 +27,9 @@
     - JavaScript
     - JQuery / AJAX / Axios
     - JSP/Servlet
-  - Back-end 
-    -Spring Framework 
-    -Spring Boot
+  - Back-end
+    - Spring Framework 
+    - Spring Boot
     - MyBatis
     - JPA
     - Hibernate
