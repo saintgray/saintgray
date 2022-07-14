@@ -16,22 +16,31 @@
  <br><br>
  
 - ***curStacks***
-  - Java
-  - MYSQL ORACLE
-  - HTML5
-  - CSS3
-  - JavaScript
-  - JQuery / AJAX / Axios
-  - JSP/Servlet
-  - Back-end (Spring Framework, Spring Boot, MyBatis)
-  - Front-end (Bootstrap, Vue.js)
+  - LANG
+    - Java
+  -DBMS
+    - MYSQL 
+    - ORACLE
+  -WEB
+    - HTML5
+    - CSS3
+    - JavaScript
+    - JQuery / AJAX / Axios
+    - JSP/Servlet
+  - Back-end 
+    -Spring Framework 
+    -Spring Boot
+    - MyBatis
+    - JPA
+    - Hibernate
+  - Front-end 
+    - Bootstrap
+    - Vue.js
   
 - ***curStudy***
   - React.js
   - Mobx
   - JWT
-  - JPA
-  - Hibernate
   
 - ***devOps***
   - Git
@@ -43,6 +52,7 @@
   - Dbeaver
   - Toad
   - Eclipse
+  - IntelliJ
   - STS
   - eGov 3.6
 
