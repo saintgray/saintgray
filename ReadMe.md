@@ -44,6 +44,8 @@
   
 - ***devOps***
   - Git
+  - BitBucket
+  - Jenkins
   - SVN
   - AWS
   - Amazon S3
