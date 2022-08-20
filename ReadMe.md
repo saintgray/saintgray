@@ -50,6 +50,7 @@
 
 - ***Tools***
   - Dbeaver
+  - Orange
   - Toad
   - Eclipse
   - IntelliJ
