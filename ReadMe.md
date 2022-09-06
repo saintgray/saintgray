@@ -33,13 +33,14 @@
     - MyBatis
     - JPA
     - Hibernate
+    - MicroService
   - Front-end 
     - Bootstrap
     - Vue.js
+    - React.js
+    - Mobx
   
 - ***curStudy***
-  - React.js
-  - Mobx
   - JWT
   
 - ***devOps***
