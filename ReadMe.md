@@ -61,9 +61,6 @@
   The closer you think you are, the less you'll actually see - Now you See me 2
   </h4>
   <hr>
-  <h4>
-  The closer you think you are, the less you'll actually see - Now you See me 2
-  </h4>
                                                                           
 
                    
