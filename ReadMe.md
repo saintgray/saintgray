@@ -19,7 +19,7 @@
 - ***career***                                                                          
   - Posco Refractories Management System [Develop] ('22.06 ~ '23.03)
   - Posco Refractories Management System [Operate] ('23.03 ~ '23.06)
-  - Posco Tundish Reparing Management System [Develop] ('23.06 ~ 23.10')
+  - Posco Tundish Reparing Management System [Develop] ('23.06 ~ '23.10)
   - Posco Railway Control System HMI Refresh [Develop] ('23.10 ~ )
   
 - ***stack***
