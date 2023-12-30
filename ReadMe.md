@@ -50,8 +50,8 @@
     - AWS
       
 - ***studying***
-  - Algorithm
-  - Django
+  - Rust
+  - Rocket
     
 </div>
 <div>
