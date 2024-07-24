@@ -55,12 +55,11 @@
     
 </div>
 <div>
-  <h4>Don't worry about the why, just worry about the how - Agent 14 : GTA5</h4>
-  <hr>
-  <h4>
-  The closer you think you are, the less you'll actually see - Now you See me 2
-  </h4>
-  <hr>
+  <h4>Don't worry about the why, just worry about the how - Agent 14 : GTA5</h4><hr>
+  <h4>The closer you think you are, the less you'll actually see - Now you See me 2</h4><hr>
+  <h4>Reality is that which, when you stop believing in it, doesn't go away - Philip K. Dick</h4>
+</div>
+  
                                                                           
 
                    
