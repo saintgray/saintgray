@@ -1,19 +1,12 @@
 
 
 
-<div align="center">
+<div align="left">
   <h1>
-    <span>JH's Git </span>
-    <img src="https://raw.githubusercontent.com/saintgray/saintgray/main/peep.png" width=35 height=35">
+    <span>Web Developer / jong hyean Oh</span><br>
+    <!-- <img src="https://raw.githubusercontent.com/saintgray/saintgray/main/peep.png" width=35 height=35"> -->
   </h1>
-</div>
- <a href=https://mail.google.com/mail/u/0/?ogbl#inbox/ target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335? style=plastic&logo=Gmail&logoColor=white"/></a>  
- <a href=https://www.instagram.com/jonghyun2023/ target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F? style=plastic&logo=Instagram&logoColor=white"/></a>
- <br><br>
-
-<div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=saintgray" width=500px height= 200px>
-  <img src="https://github-readme-stats.vercel.app/api?username=saintgray" width=500px height= 200px>
+  <span>Interested in system develop & algorithm</span>
 </div>
 
 - ***career***                                                                          
@@ -23,41 +16,25 @@
   - Posco Railway Control System HMI Refresh [Develop] ('23.10 ~ )
   
 - ***stack***
-  - LANG
-    - Java
-    - Python
-  - DBMS
-    - MYSQL 
-    - ORACLE
-  - Back-end
-    - Spring Framework 
-    - Spring Boot
-    - JPA
-    - Hibernate
-    - MicroService
-    - Eureka
-    - EAI
-    - JWT
-  - Front-end
-    - WEB Standard
-    - Vue.js
-    - React.js
-    - Typescript
-  - Dev-ops
-    - Git
-    - SVN
-    - Jenkins
-    - AWS
-      
-- ***studying***
-  - Rust
-  - Rocket
-    
+  - LANG : Java, Python
+  - DBMS : MYSQL, ORACLE
+  - BE : Spring F/W, JPA, Hibernate, ORM, MicroService, Eureka, EAI, Kafka, JWT, Socket Server, WAS
+  - FE : WEB Standard, Vue.js, React.js, Typescript
+  - Dev-ops : Git, Bamboo, SVN, Jenkins, AWS
+
+
+- ***motto***
+  - Don't worry about the why, just worry about the how - Agent 14 : GTA5
+  - The closer you think you are, the less you'll actually see - Now you See me 2
+  - Reality is that which, when you stop believing in it, doesn't go away - Philip K. Dick
 </div>
-<div>
-  <h4>Don't worry about the why, just worry about the how - Agent 14 : GTA5</h4><hr>
-  <h4>The closer you think you are, the less you'll actually see - Now you See me 2</h4><hr>
-  <h4>Reality is that which, when you stop believing in it, doesn't go away - Philip K. Dick</h4>
+
+<hr></hr>
+
+- ***badges***
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=saintgray" width=500px height= 200px>
+  <img src="https://github-readme-stats.vercel.app/api?username=saintgray" width=500px height= 200px>
 </div>
   
                                                                           
