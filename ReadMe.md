@@ -1,11 +1,7 @@
 
 
 
-<div align="left">
-  <h1>
-    <span>Web Developer / jong hyean Oh</span><br>
-    <!-- <img src="https://raw.githubusercontent.com/saintgray/saintgray/main/peep.png" width=35 height=35"> -->
-  </h1>
+<div align="left">>
   <span>Interested in system develop & algorithm</span>
 </div>
 
