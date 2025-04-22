@@ -1,7 +1,7 @@
 
 
 
-<div align="left">>
+<div align="left">
   <span>Interested in system develop & algorithm</span>
 </div>
 
