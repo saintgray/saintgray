@@ -11,7 +11,7 @@
   - Posco Tundish Reparing Management System [Develop] ('23.06 ~ '23.10)
   - Posco Railway Control System HMI Refresh [Develop] ('23.10 ~ '24.11)
   - Posco Data Warehouse Refresh [Develop] ('24.11 ~ '25.05)
-  - Posco Electric Furnace factory system implemention [Develop] ('25.06 ~ '26.04(예정))
+  - Posco Electric Arc Furnace factory System [Develop] ('25.06 ~ '26.04(예정))
   
 - ***Stack***
   - LANG : Java, Python
