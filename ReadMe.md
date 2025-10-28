@@ -26,6 +26,7 @@
   - Don't worry about the why, just worry about the how - Agent 14 : GTA5
   - The closer you think you are, the less you'll actually see - Now you See me 2
   - Reality is that which, when you stop believing in it, doesn't go away - Philip K. Dick
+  - 시작에 필요한건 약간의 호기심 정도야 - 시미즈 키요코 / 하이큐
 </div>
 
 <hr></hr>
