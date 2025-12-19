@@ -14,13 +14,9 @@
   - Posco Electric Arc Furnace factory System [Develop] ('25.06 ~ '26.04(예정))
   
 - ***Stack***
-  - LANG : Java, Python
-  - DBMS : MYSQL, ORACLE
-  - BE : Spring, Django, ORM, MSA, Eureka, EAI, Kafka
-  - FE : WEB Standard, Vue.js, React.js
-  - Dev-ops : Git, Bamboo, Jenkins, AWS
-  - ETC : SAS, BI Matrix
-
+  - **LANG** Java,Python **DBMS** MYSQL,ORACLE **BE** Spring,Django,ORM,MSA,Eureka,EAI,Kafka
+   **FE** WEB Standard,Vue.js,React,NextJS,Typescript **DBMS** MYSQL,ORACLE **Dev-ops** Git,Bamboo,Jenkins,AWS
+   **ETC** SAS,BI Matrix
 
 - ***Motto***
   - Don't worry about the why, just worry about the how - Agent 14 : GTA5
