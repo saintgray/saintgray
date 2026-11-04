@@ -23,6 +23,7 @@
   - The closer you think you are, the less you'll actually see - Now you See me 2
   - Reality is that which, when you stop believing in it, doesn't go away - Philip K. Dick
   - 시작에 필요한건 약간의 호기심 정도야 - 시미즈 키요코 / 하이큐
+  - 내가 보아온 놈들은 다 똑같았어. 술이었지, 여자였지, 신이기도 했고, 일족, 왕, 꿈, 자식, 힘.. 다들 무언가에 취해있지 않으면 버텨낼 수 없었던 거야. 다들 무언가의 노예였어 - 케니 아커만 / 진격의 거인
 </div>
 
 <hr></hr>
