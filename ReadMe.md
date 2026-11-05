@@ -17,7 +17,7 @@
   
 - ***Stack***
   - **LANG** Java,Python **DBMS** MYSQL,ORACLE **BE** Spring,Django,ORM,MSA,Eureka,EAI,Kafka
-   **FE** WEB Standard,Vue.js,React,NextJS,Typescript **DBMS** MYSQL,ORACLE **Dev-ops** Git,Bamboo,Jenkins,AWS
+   **FE** WEB Standard,Vue.js,React,NextJS,Typescript **Dev-ops** Git,Bamboo,Jenkins,AWS
    **ETC** SAS,BI Matrix
 
 - ***Motto***
