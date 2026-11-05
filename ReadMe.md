@@ -6,12 +6,14 @@
 </div>
 
 - ***Career***                                                                          
-  - Posco Refractories Management System [Develop] ('22.06 ~ '23.03)
-  - Posco Refractories Management System [Operate] ('23.03 ~ '23.06)
-  - Posco Tundish Reparing Management System [Develop] ('23.06 ~ '23.10)
-  - Posco Railway Control System HMI Refresh [Develop] ('23.10 ~ '24.11)
-  - Posco Data Warehouse Refresh [Develop] ('24.11 ~ '25.05)
-  - Posco Electric Arc Furnace factory System [Develop] ('25.06 ~ '26.04(예정))
+  - [포스코] 노재관리 내화물 관리 시스템 구축 [개발] ('22.06 ~ '23.03)
+  - [포스코] 노재관리 [운영] ('23.03 ~ '23.06)
+  - [포스코] Tundish 수리 관리 시스템 구축 [개발] ('23.06 ~ '23.10)
+  - [포스코] 철도관제 HMI Refresh [Develop] ('23.10 ~ '24.11)
+  - [포스코] DW(Data Warehouse) Refresh [Develop] ('24.11 ~ '25.05)
+  - [포스코] 전기로 신설 시스템 구축 / 용선관제 파트 [Develop] ('25.06 ~ '26.04)
+  - [포스코] 용선관제 [운영] ('26.04~ 현재)
+  - [포스코] 선강 Heat Loss 관리 시스템 및 용선관제 고도화 [개발] / ('26.04 ~ '26.12(예정))
   
 - ***Stack***
   - **LANG** Java,Python **DBMS** MYSQL,ORACLE **BE** Spring,Django,ORM,MSA,Eureka,EAI,Kafka
